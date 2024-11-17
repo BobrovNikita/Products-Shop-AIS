@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Views\CompositionRequestView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\CompositionSellingView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\MainView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ProductIntoShopView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ProductIntoStorageView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ProductView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Product_TypeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\RequestView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\SellView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ShopTypeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ShopView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\StorageView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
